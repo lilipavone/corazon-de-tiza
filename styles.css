@@ -1,0 +1,17 @@
+*
+body {
+    font-family: cursive, sans-serif;
+    }
+
+
+p {
+    color: rgb(226, 134, 14);
+}
+#tituloprincipal {
+    color: #e70808;
+    font-size: 60px;
+} 
+    .borderedondeado {
+        border-radius: 5%
+
+}
